@@ -1,0 +1,7 @@
+1. Lapisan mana yang paling saya pahami ?
+2. Lapisan mana yang masih saya campuradukkan ?
+3. Bukti apa yang membuat sebuah sistem layak disebut "cerdas" dan bertanggung jawab ?
+JAWABAN : 
+1. Lapisan yang saya pahami itu lapisan data dan teknologi. Karena saya cukup paham bagaimana data menjadi input bagi sistem dan teknologi digunakan untuk menghasilkan suatu keputusan.
+2. Lapisan yang masih saya campuradukkan itu adalah machine learning. Karena saya juga masih belum mengenal jauh tentang machine learning, saya hanya mengetahui definisi dan kegunaannya saja.
+3. Menurut saya sistem layak disebut "cerdas" itu adalah sistem yang mempunyai kemampuan untuk memproses data, mengenali pola, belajar atau beradaptasi, dan yang terakhir itu dapat menghasilkan keputusan atau hasilnya yang sesuai dengan tujuan. Untuk sistem yang bertanggung jawab itu adalah sistem yang mempunyai kemampuan untuk dapat menjelaskan hasil atau keputusannya, datanya digunakan secara tepat, mempunyai privasi dan keamanan yang kuat, dan memiliki pengawasan manusia untuk mencegah dampak yang merugikan.
